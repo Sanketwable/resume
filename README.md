@@ -1,7 +1,7 @@
 # Resume
 
 
-## Contains  HTML and CSS file for myresume
+## Contains  HTML and CSS file for my resume
 
 
 ## link=
